@@ -1,0 +1,28 @@
+body{
+    background-color:whitesmoke;
+}
+hr{
+    border-top: 3px solid blue;
+}
+
+.image, img{
+ align-items: center;
+ width: 700px;
+ height: auto;
+
+}
+
+ h3,h2,h1{
+    color: darkblue;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: xx-large;
+}
+h2{
+    font-size: larger;  
+}
+
+
